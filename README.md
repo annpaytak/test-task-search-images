@@ -1,3 +1,5 @@
+# Photo search app with favourites
+
 Live [here](https://annpaytak.github.io/test-task-search-images/#/)
 
 # Getting Started with Create React App
